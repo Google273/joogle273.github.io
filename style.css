@@ -14,7 +14,7 @@ body {
 header {
 	padding: 0px;
 	margin: 0px;
-	background: url("Rectangle 3.png") no-repeat ;
+	background: url("../img/Rectangle 3.png") no-repeat ;
 	width: auto;
 	height: 1045px;
 }
@@ -29,6 +29,9 @@ ul {
     display: flex;
     margin-left: 18px;
 }
+#number1 {
+	display: none;
+}
 a {
     text-decoration: none;
     display: flex;
@@ -36,7 +39,7 @@ a {
     font-family: Open Sans Condensed;
     font-style: normal;
     font-weight: bold;
-    font-size: 14px;
+    font-size: 13px;
     line-height: 25px;
     letter-spacing: 0.1em;
     text-transform: uppercase;
@@ -608,35 +611,6 @@ ul {
 @media screen and (max-width: 1200px) {
 	
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
